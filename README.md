@@ -2,13 +2,13 @@
 
 <p align="center">AI Web Page Generator can generate front-end HTML files through AI large models by simply using natural language descriptions or providing a webpage screenshot. It supports the following tech stacks: Html+Tailwindcss, React+Tailwindcss, Bootstrap, Vue+Tailwindcss, Ionic+Tailwindcss, SVG. It can generate beautiful placeholder images through Dall-E 3, and also allows uploading existing HTML files for modification, supporting quick component-level adjustments with one click.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/front/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/21" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_Web_Page_Generator_en.png)
 
-This is the open-source version of the [AI Web Page Generator](https://302.ai/en/tools/front/) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [AI Web Page Generator](https://302.ai/product/detail/21) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 ## Interface Preview
 Generate similar pages through natural language descriptions or webpage screenshots, with real-time desktop preview.
